@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AI app development
-- 🌱 I’m currently learning blockchain
-- 👯 I’m looking to collaborate on Machine Learning
+- 🔭 I’m currently working ... AI app development
+- 🌱 I’m currently learning... blockchain
+- 👯 I’m looking to collaborate ... Machine Learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
