@@ -7,6 +7,6 @@ an AI enthusiast,App developer,blockchain dev, with keen inclination towards Phy
 - 🔭 I’m currently working AI app development
 - 🌱 I’m currently learning blockchain
 - 👯 I’m looking to collaborate in Machine Learning
-- 📫 How to reach me: INSTAGRAM : https://www.instagram.com/pranaydgr8/
+
 
 
